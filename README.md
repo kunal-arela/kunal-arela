@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kunal 👋
 
-<!--
-**kunal-arela/kunal-arela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Focused on Java & Data Structures  
+🚀 Preparing for placements  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔥 Currently Working On
+- Solving DSA problems daily
+- Strengthening problem-solving skills
+- Building consistency
+
+
+
+## 🛠 Skills
+- Java
+- Data Structures & Algorithms
+- Git & GitHub
+
+
+
+## 🎯 2026 Goals
+- Solve 300+ DSA problems
+- Build strong Java fundamentals
+- Prepare for product-based companies
+
+
+
+Consistency > Motivation. 

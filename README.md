@@ -98,14 +98,7 @@ manual editing needed._
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/kunal-arela/kunal-arela/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
 </div>
-
-> The snake animation above needs a one-time setup — see **Setup Notes** at
-> the bottom of this file.
 
 ---
 
@@ -116,18 +109,15 @@ manual editing needed._
 <a href="https://github.com/kunal-arela/leetcode-solutions">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-arela&repo=leetcode-solutions&theme=tokyonight&hide_border=true" alt="LeetCode Solutions"/>
 </a>
-<a href="https://github.com/kunal-arela">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-arela&repo=REPLACE_WITH_PROJECT_NAME&theme=tokyonight&hide_border=true" alt="Future Project Placeholder"/>
-</a>
-<a href="https://github.com/kunal-arela">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-arela&repo=REPLACE_WITH_PORTFOLIO_REPO&theme=tokyonight&hide_border=true" alt="Portfolio Placeholder"/>
+<a href="https://github.com/kunal-arela/dsa-practice-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-arela&repo=dsa-practice-java&theme=tokyonight&hide_border=true" alt="DSA Practice Java"/>
 </a>
 
 </div>
 
-> Replace `REPLACE_WITH_PROJECT_NAME` and `REPLACE_WITH_PORTFOLIO_REPO` with
-> real repository names once those projects exist — pin cards 404 silently
-> until then.
+> Add more `<a>` blocks here as you create new repos worth pinning.
+> Pin cards 404 silently if the repo name doesn't exist, so only
+> reference repos that are already public.
 
 ---
 
@@ -138,28 +128,14 @@ manual editing needed._
 <a href="https://github.com/kunal-arela">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/REPLACE_WITH_LINKEDIN_HANDLE">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:REPLACE_WITH_EMAIL">
-  <img src="https://img.shields.io/badge/Email-8A63D2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://REPLACE_WITH_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
 
 </div>
 
-> Swap the `REPLACE_WITH_*` placeholders above for your real LinkedIn
-> handle, email, and portfolio URL.
-
----
-
-## 💬 Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+> Add LinkedIn / Email / Portfolio badges back in once you have real
+> links — a badge pointing to a fake URL is worse than no badge.
+>
+> LinkedIn: `<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>`
+> Email: `<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-8A63D2?style=for-the-badge&logo=gmail&logoColor=white"/></a>`
 
 ---
 
@@ -167,101 +143,9 @@ manual editing needed._
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
-**Thanks for visiting — consistency &gt; motivation.**
+**Thanks for visiting — consistency > motivation.**
 
 </div>
-
----
-
-<details>
-<summary><strong>⚙️ Setup Notes (click to expand)</strong></summary>
-
-<br/>
-
-**1. LeetCode Dashboard automation**
-Already wired up via `.github/workflows/update-readme.yml` and
-`scripts/update_readme.py`. It runs on every push, every pull request,
-daily at midnight UTC, and on manual dispatch. It clones
-`kunal-arela/leetcode-solutions`, scans it, and rewrites everything between
-the `LEETCODE-STATS` markers above. Nothing else in this file is touched.
-The script identifies each problem's difficulty by matching the leading
-number in each solution filename (e.g. `1-two-sum.java`) against LeetCode's
-public problem list — if that endpoint is ever unreachable, those problems
-are labeled "Unknown" instead of breaking the workflow.
-
-**2. Contribution snake animation**
-This needs its own one-time workflow (not included above, since it's a
-separate concern from the LeetCode dashboard). Add a workflow using the
-[`Platane/snk`](https://github.com/Platane/snk) action — it generates an
-`output` branch containing the SVG referenced in the Coding Activity
-section. Until that workflow is added, that image will simply not render.
-
-**3. Placeholders**
-Search this file for `REPLACE_WITH_` and swap in your real LinkedIn
-handle, email, portfolio URL, and any additional project repo names.
-
-</details>
-name: Update Profile README
-
-on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
-  schedule:
-    - cron: "0 0 * * *"   # every day at midnight UTC
-  workflow_dispatch:        # manual trigger from the Actions tab
-
-permissions:
-  contents: write
-
-concurrency:
-  group: update-readme
-  cancel-in-progress: true
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout profile repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Checkout leetcode-solutions repository
-        uses: actions/checkout@v4
-        with:
-          repository: kunal-arela/leetcode-solutions
-          path: leetcode-solutions
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: "pip"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run update script
-        env:
-          LEETCODE_REPO_PATH: ${{ github.workspace }}/leetcode-solutions
-          README_PATH: ${{ github.workspace }}/README.md
-        run: python scripts/update_readme.py
-
-      - name: Commit and push changes if README changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- README.md; then
-            echo "No changes to commit."
-          else
-            git add README.md
-            git commit -m "chore: auto-update LeetCode stats [skip ci]"
-            git push
-          fi
 """
 update_readme.py
 
@@ -663,3 +547,64 @@ def main() -> int:
 if __name__ == "__main__":
     sys.exit(main())
     requests>=2.31.0
+    name: Update Profile README
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 0 * * *"   # every day at midnight UTC
+  workflow_dispatch:        # manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout leetcode-solutions repository
+        uses: actions/checkout@v4
+        with:
+          repository: kunal-arela/leetcode-solutions
+          path: leetcode-solutions
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run update script
+        env:
+          LEETCODE_REPO_PATH: ${{ github.workspace }}/leetcode-solutions
+          README_PATH: ${{ github.workspace }}/README.md
+        run: python scripts/update_readme.py
+
+      - name: Commit and push changes if README changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- README.md; then
+            echo "No changes to commit."
+          else
+            git add README.md
+            git commit -m "chore: auto-update LeetCode stats [skip ci]"
+            git push
+          fi

@@ -19,13 +19,13 @@
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
 - 🎓 Computer Science Student
-- 💻 Passionate about **Software Engineering** and clean, efficient code
-- 🧠 Strong interest in **Data Structures & Algorithms**
-- 🧩 Love solving coding challenges on **LeetCode**
-- 🚀 Building real-world projects to sharpen practical skills
-- 📚 Learning something new every day
-- 🌍 Open source learner, exploring how great projects are built
-
+- 💻 Aspiring Software Engineer
+- ☕ Java Developer
+- 🧠 Solving Data Structures & Algorithms daily
+- 🚀 Building scalable and real-world projects
+- 📚 Continuously learning modern technologies
+- 🎯 Goal: Become a skilled Full-Stack Software Engineer
+- 
 <br clear="right"/>
 
 ---
@@ -62,8 +62,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
@@ -84,27 +84,12 @@ _LeetCode statistics are updated automatically._
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/kunal-arela/kunal-arela/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/kunal-arela/leetcode-solutions">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-arela&repo=leetcode-solutions&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/kunal-arela/dsa-practice-java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-arela&repo=dsa-practice-java&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 

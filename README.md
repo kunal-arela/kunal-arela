@@ -72,8 +72,6 @@
 ---
 
 <!-- LEETCODE-STATS:START -->
-
-<!-- LEETCODE-STATS:START -->
 ### 🧩 LeetCode Progress
 
 _LeetCode statistics are updated automatically._
@@ -92,9 +90,6 @@ _LeetCode statistics are updated automatically._
 
 </div>
 
-> The snake animation above needs a one-time setup — see **Setup Notes** at
-> the bottom of this file.
-
 ---
 
 ## 🚀 Featured Projects
@@ -111,7 +106,7 @@ _LeetCode statistics are updated automatically._
 
 </div>
 
-
+---
 
 
 
@@ -137,6 +132,8 @@ _LeetCode statistics are updated automatically._
 
 </div>
 
+---
+
 ## 💬 Quote
 
 <div align="center">
@@ -155,9 +152,3 @@ _LeetCode statistics are updated automatically._
 
 ---
 
-<details>
-<summary><strong>⚙️ Setup Notes (click to expand)</strong></summary>
-
-<br/>
-
-</details>

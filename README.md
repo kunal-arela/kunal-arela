@@ -1,610 +1,165 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kunal%20Arela&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+Developer;DSA+%26+Competitive+Programmer;LeetCode+Explorer;Open+Source+Learner" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Kunal%20Arela%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Developer%20|%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kunal-arela&label=Profile%20Views&color=8A63D2&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/kunal-arela?label=Followers&style=for-the-badge&color=8A63D2" alt="Followers" />
-<img src="https://img.shields.io/github/stars/kunal-arela?label=Stars&style=for-the-badge&color=8A63D2" alt="Stars" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+Developer;Computer+Science+Student;DSA+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kunal-arela&label=Profile%20Views&color=8A63F2&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/kunal-arela?label=Followers&style=for-the-badge&color=0f172a&labelColor=8A63F2" alt="followers"/>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/dev-productivity.gif" alt="coding gif"/>
 
-- 🎓 Computer Science Student
-- 💻 Passionate about **Software Engineering** and clean, efficient code
-- 🧠 Strong interest in **Data Structures & Algorithms**
-- 🧩 Love solving coding challenges on **LeetCode**
-- 🚀 Building real-world projects to sharpen practical skills
-- 📚 Learning something new every day
-- 🌍 Open source learner, exploring how great projects are built
+- 🎓 Computer Science Student, always curious and always building
+- 🔭 Learning **Java, Python & Data Structures and Algorithms** in depth
+- 🧩 Consistently solving problems on **LeetCode**
+- 🏗️ Building real-world projects to turn theory into practice
+- 🎯 Deeply interested in **Software Engineering** and scalable systems
+- 💡 Passionate about clean code and elegant problem solving
+- 🤝 Open to learning, collaboration, and open-source contribution
 
 <br clear="right"/>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css" alt="languages" />
-</p>
+<img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=8A63F2" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=4B8BFF" alt="Python"/>
+<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=8A63F2" alt="C"/>
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=4B8BFF" alt="CSS3"/>
 
 **Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="tools" />
-</p>
+<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=8A63F2" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=4B8BFF" alt="VS Code"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-0f172a?style=for-the-badge&logo=intellijidea&logoColor=8A63F2" alt="IntelliJ IDEA"/>
 
-**Database**
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" alt="database" />
-</p>
-
-**Operating Systems**
-
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux" alt="os" />
-</p>
-
----
+<br/>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63F2&icon_color=4B8BFF&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A63F2&ring=4B8BFF&fire=8A63F2&currStreakLabel=4B8BFF" alt="GitHub Streak"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<br/>
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63F2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
----
+<br/>
 
-<!-- LEETCODE-STATS:START -->
-
-### 🧩 LeetCode Solutions Dashboard
-
-_This section is auto-generated by `scripts/update_readme.py` from
-[`leetcode-solutions`](https://github.com/kunal-arela/leetcode-solutions).
-It will populate automatically the first time the GitHub Action runs — no
-manual editing needed._
-
-<!-- LEETCODE-STATS:END -->
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kunal-arela&theme=tokyonight&no-frame=true&row=2&column=4" alt="trophies" />
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A63F2&line=4B8BFF&point=ffffff" alt="Contribution Graph"/>
 
 </div>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/kunal-arela/leetcode-solutions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-arela&repo=leetcode-solutions&theme=tokyonight&hide_border=true" alt="LeetCode Solutions"/>
-</a>
-<a href="https://github.com/kunal-arela/dsa-practice-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-arela&repo=dsa-practice-java&theme=tokyonight&hide_border=true" alt="DSA Practice Java"/>
-</a>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⭐ LeetCode Solutions
+Curated, well-documented solutions to LeetCode problems spanning arrays, trees, graphs, and dynamic programming — built while mastering DSA.
+
+</td>
+<td width="33%" valign="top">
+
+### ⭐ Java DSA Practice
+A structured repository of core Java implementations for data structures and algorithms, written for clarity and interview readiness.
+
+</td>
+<td width="33%" valign="top">
+
+### ⭐ Portfolio Website
+A personal portfolio showcasing projects, skills, and journey.
+**Coming Soon 🚧**
+
+</td>
+</tr>
+</table>
 
 </div>
 
-> Add more `<a>` blocks here as you create new repos worth pinning.
-> Pin cards 404 silently if the repo name doesn't exist, so only
-> reference repos that are already public.
+<br/>
 
----
+## 🎯 Current Goals
 
-## 🌐 Connect With Me
+<div align="center">
+
+| Status | Goal |
+|:---:|:---|
+| ⬜ | Solve 300+ LeetCode Problems |
+| ⬜ | Master Java |
+| ⬜ | Master Data Structures & Algorithms |
+| ⬜ | Build Full Stack Projects |
+| ⬜ | Contribute to Open Source |
+| ⬜ | Crack SDE Interviews |
+
+</div>
+
+<br/>
+
+## 💬 Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/kunal-arela">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=8A63F2" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/kunal-arela-46793639b">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=4B8BFF" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/KUNAL_ARELA/">
+  <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=8A63F2" alt="LeetCode"/>
+</a>
+<a href="mailto:arelakunal238@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=4B8BFF" alt="Email"/>
 </a>
 
 </div>
 
-> Add LinkedIn / Email / Portfolio badges back in once you have real
-> links — a badge pointing to a fake URL is worse than no badge.
->
-> LinkedIn: `<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>`
-> Email: `<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-8A63D2?style=for-the-badge&logo=gmail&logoColor=white"/></a>`
-
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+### ✨ Thanks for visiting my profile. Happy Coding! ✨
 
-**Thanks for visiting — consistency > motivation.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
-"""
-update_readme.py
-
-Scans the kunal-arela/leetcode-solutions repository and regenerates the
-dynamic LeetCode statistics section of the profile README.md, in place,
-between the LEETCODE-STATS markers.
-
-Run by .github/workflows/update-readme.yml. Safe to run locally too.
-
-Usage:
-    python scripts/update_readme.py
-
-Environment variables (optional overrides):
-    LEETCODE_REPO_PATH   Path to a local checkout of leetcode-solutions.
-                          Defaults to "<repo_root>/leetcode-solutions".
-    README_PATH           Path to the README.md to update.
-                          Defaults to "<repo_root>/README.md".
-
-Notes on data sources / known limitations:
-    - Difficulty (Easy/Medium/Hard) is resolved by matching a leading
-      problem number in each solution filename against LeetCode's public,
-      UNOFFICIAL endpoint (https://leetcode.com/api/problems/all/). This
-      endpoint is not guaranteed stable by LeetCode. If it is unreachable
-      or its shape changes, the script logs a warning and falls back to
-      marking those problems as "Unknown" difficulty rather than failing.
-    - "Solved" count is derived from filenames that start with a LeetCode
-      problem number (e.g. "1-two-sum.java", "0125. Valid Palindrome.py").
-      Files that don't match this pattern are still counted toward
-      language/folder stats but not toward total-solved or difficulty.
-"""
-
-from __future__ import annotations
-
-import logging
-import os
-import re
-import subprocess
-import sys
-from collections import defaultdict
-from dataclasses import dataclass, field
-from datetime import datetime, timezone
-from pathlib import Path
-
-import requests
-
-# --------------------------------------------------------------------------- #
-# Configuration
-# --------------------------------------------------------------------------- #
-
-LOG = logging.getLogger("update_readme")
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s | %(levelname)-8s | %(message)s",
-    datefmt="%Y-%m-%d %H:%M:%S",
-)
-
-LEETCODE_PROBLEMS_API = "https://leetcode.com/api/problems/all/"
-
-# Extensions recognised as "solution" files, mapped to a display language name.
-LANGUAGE_EXTENSIONS: dict[str, str] = {
-    ".java": "Java",
-    ".py": "Python",
-    ".c": "C",
-    ".cpp": "C++",
-    ".js": "JavaScript",
-    ".ts": "TypeScript",
-    ".go": "Go",
-    ".rs": "Rust",
-}
-
-# Matches a leading LeetCode problem number in filenames such as:
-#   "1-two-sum.java", "0125-Valid-Palindrome.py", "704. Binary Search.java"
-PROBLEM_NUMBER_RE = re.compile(r"^0*(\d+)")
-
-MARKER_START = "<!-- LEETCODE-STATS:START -->"
-MARKER_END = "<!-- LEETCODE-STATS:END -->"
-
-GOAL_TOTAL_SOLVED = 300  # tied to the "300+ DSA problems" 2026 goal
-
-REPO_ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_README_PATH = REPO_ROOT / "README.md"
-DEFAULT_SOLUTIONS_PATH = Path(
-    os.environ.get("LEETCODE_REPO_PATH", str(REPO_ROOT / "leetcode-solutions"))
-)
-
-
-@dataclass
-class ProblemMeta:
-    number: int
-    title: str
-    difficulty: str  # "Easy" | "Medium" | "Hard"
-
-
-@dataclass
-class RepoStats:
-    total_files: int = 0
-    solved: set[int] = field(default_factory=set)
-    difficulty_counts: dict[str, int] = field(default_factory=lambda: defaultdict(int))
-    language_counts: dict[str, int] = field(default_factory=lambda: defaultdict(int))
-    folder_counts: dict[str, int] = field(default_factory=lambda: defaultdict(int))
-    recent_files: list[tuple[str, str]] = field(default_factory=list)  # (path, date)
-    total_commits: int = 0
-    repo_size_kb: float = 0.0
-    last_updated: str = ""
-
-
-# --------------------------------------------------------------------------- #
-# LeetCode metadata
-# --------------------------------------------------------------------------- #
-
-def fetch_leetcode_catalog(timeout: int = 15) -> dict[int, ProblemMeta]:
-    """
-    Fetch {problem_number: ProblemMeta} from LeetCode's public problem list.
-
-    Returns an empty dict on any failure so callers can degrade gracefully
-    (difficulty marked "Unknown") instead of crashing the workflow.
-    """
-    difficulty_map = {1: "Easy", 2: "Medium", 3: "Hard"}
-    try:
-        response = requests.get(LEETCODE_PROBLEMS_API, timeout=timeout)
-        response.raise_for_status()
-        payload = response.json()
-    except (requests.RequestException, ValueError) as exc:
-        LOG.warning(
-            "Could not fetch LeetCode catalog (%s). "
-            "Difficulty breakdown will be marked as 'Unknown'.",
-            exc,
-        )
-        return {}
-
-    catalog: dict[int, ProblemMeta] = {}
-    for entry in payload.get("stat_status_pairs", []):
-        stat = entry.get("stat", {})
-        number = stat.get("frontend_question_id")
-        title = stat.get("question__title")
-        difficulty_level = entry.get("difficulty", {}).get("level")
-        if number is None or difficulty_level not in difficulty_map:
-            continue
-        catalog[number] = ProblemMeta(
-            number=number,
-            title=title or f"Problem {number}",
-            difficulty=difficulty_map[difficulty_level],
-        )
-    LOG.info("Fetched metadata for %d LeetCode problems.", len(catalog))
-    return catalog
-
-
-# --------------------------------------------------------------------------- #
-# Git helpers
-# --------------------------------------------------------------------------- #
-
-def run_git(args: list[str], cwd: Path) -> str:
-    """Run a git command inside `cwd`, returning stdout (or '' on failure)."""
-    try:
-        result = subprocess.run(
-            ["git", *args],
-            cwd=cwd,
-            capture_output=True,
-            text=True,
-            check=True,
-        )
-        return result.stdout.strip()
-    except (subprocess.CalledProcessError, FileNotFoundError) as exc:
-        LOG.warning("git command failed (args=%s): %s", args, exc)
-        return ""
-
-
-def get_total_commits(repo_path: Path) -> int:
-    output = run_git(["rev-list", "--count", "HEAD"], cwd=repo_path)
-    return int(output) if output.isdigit() else 0
-
-
-def get_recent_solved_files(repo_path: Path, limit: int = 10) -> list[tuple[str, str]]:
-    """
-    Return up to `limit` most-recently-added solution files as
-    (relative_path, ISO-ish date) tuples, newest first, via git log.
-    """
-    output = run_git(
-        [
-            "log",
-            "--diff-filter=A",
-            "--name-only",
-            "--date=short",
-            "--pretty=format:__COMMIT__%ad",
-        ],
-        cwd=repo_path,
-    )
-
-    recent: list[tuple[str, str]] = []
-    current_date = ""
-    seen: set[str] = set()
-
-    for line in output.splitlines():
-        if line.startswith("__COMMIT__"):
-            current_date = line.removeprefix("__COMMIT__").strip()
-            continue
-        file_path = line.strip()
-        if not file_path or file_path in seen:
-            continue
-        if Path(file_path).suffix.lower() not in LANGUAGE_EXTENSIONS:
-            continue
-        seen.add(file_path)
-        recent.append((file_path, current_date))
-        if len(recent) >= limit:
-            break
-
-    return recent
-
-
-def get_repo_size_kb(repo_path: Path) -> float:
-    total_bytes = 0
-    for file_path in repo_path.rglob("*"):
-        if file_path.is_file() and ".git" not in file_path.parts:
-            try:
-                total_bytes += file_path.stat().st_size
-            except OSError:
-                continue
-    return round(total_bytes / 1024, 2)
-
-
-# --------------------------------------------------------------------------- #
-# Repository scanning
-# --------------------------------------------------------------------------- #
-
-def scan_repository(repo_path: Path, catalog: dict[int, ProblemMeta]) -> RepoStats:
-    stats = RepoStats()
-
-    if not repo_path.exists():
-        LOG.error("Solutions repository not found at %s", repo_path)
-        return stats
-
-    for file_path in repo_path.rglob("*"):
-        if not file_path.is_file() or ".git" in file_path.parts:
-            continue
-
-        ext = file_path.suffix.lower()
-        if ext not in LANGUAGE_EXTENSIONS:
-            continue
-
-        stats.total_files += 1
-        stats.language_counts[LANGUAGE_EXTENSIONS[ext]] += 1
-
-        relative_parts = file_path.relative_to(repo_path).parts
-        top_folder = relative_parts[0] if len(relative_parts) > 1 else "root"
-        stats.folder_counts[top_folder] += 1
-
-        match = PROBLEM_NUMBER_RE.match(file_path.name)
-        if not match:
-            continue
-
-        number = int(match.group(1))
-        stats.solved.add(number)
-
-        meta = catalog.get(number)
-        difficulty = meta.difficulty if meta else "Unknown"
-        stats.difficulty_counts[difficulty] += 1
-
-    stats.total_commits = get_total_commits(repo_path)
-    stats.recent_files = get_recent_solved_files(repo_path)
-    stats.repo_size_kb = get_repo_size_kb(repo_path)
-    stats.last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    return stats
-
-
-# --------------------------------------------------------------------------- #
-# Markdown generation
-# --------------------------------------------------------------------------- #
-
-def make_progress_bar(part: int, whole: int, length: int = 20) -> str:
-    if whole <= 0:
-        return "`" + "░" * length + "` 0%"
-    ratio = min(part / whole, 1.0)
-    filled = round(ratio * length)
-    bar = "█" * filled + "░" * (length - filled)
-    return f"`{bar}` {ratio * 100:.1f}%"
-
-
-def build_markdown(stats: RepoStats) -> str:
-    total = len(stats.solved)
-    easy = stats.difficulty_counts.get("Easy", 0)
-    medium = stats.difficulty_counts.get("Medium", 0)
-    hard = stats.difficulty_counts.get("Hard", 0)
-    unknown = stats.difficulty_counts.get("Unknown", 0)
-
-    lines: list[str] = [MARKER_START, ""]
-    lines.append("### 🧩 LeetCode Solutions Dashboard")
-    lines.append("")
-    lines.append(
-        f"_Auto-generated from "
-        f"[`leetcode-solutions`](https://github.com/kunal-arela/leetcode-solutions) "
-        f"· Last updated: {stats.last_updated}_"
-    )
-    lines.append("")
-    lines.append("| Metric | Count |")
-    lines.append("|---|---|")
-    lines.append(f"| ✅ Total Solved | **{total}** |")
-    lines.append(f"| 🟢 Easy | {easy} |")
-    lines.append(f"| 🟡 Medium | {medium} |")
-    lines.append(f"| 🔴 Hard | {hard} |")
-    if unknown:
-        lines.append(f"| ⚪ Unknown | {unknown} |")
-    lines.append(f"| 📝 Total Commits | {stats.total_commits} |")
-    lines.append(f"| 💾 Repo Size | {stats.repo_size_kb} KB |")
-    lines.append("")
-
-    lines.append(f"**Progress toward {GOAL_TOTAL_SOLVED} solved:**  ")
-    lines.append(make_progress_bar(total, GOAL_TOTAL_SOLVED))
-    lines.append("")
-
-    if stats.language_counts:
-        lines.append("**Languages used:**")
-        lines.append("")
-        lines.append("| Language | Files |")
-        lines.append("|---|---|")
-        for lang, count in sorted(stats.language_counts.items(), key=lambda x: -x[1]):
-            lines.append(f"| {lang} | {count} |")
-        lines.append("")
-
-    if stats.folder_counts:
-        lines.append("**Folder-wise breakdown:**")
-        lines.append("")
-        lines.append("| Folder | Files |")
-        lines.append("|---|---|")
-        for folder, count in sorted(stats.folder_counts.items(), key=lambda x: -x[1]):
-            lines.append(f"| {folder} | {count} |")
-        lines.append("")
-
-    if stats.recent_files:
-        lines.append("**Recently added solutions:**")
-        lines.append("")
-        lines.append("| File | Date |")
-        lines.append("|---|---|")
-        for file_path, date in stats.recent_files:
-            lines.append(f"| `{file_path}` | {date} |")
-        lines.append("")
-
-    lines.append(MARKER_END)
-    return "\n".join(lines)
-
-
-# --------------------------------------------------------------------------- #
-# README patching
-# --------------------------------------------------------------------------- #
-
-def update_readme(readme_path: Path, new_section: str) -> bool:
-    """
-    Replace the content between MARKER_START and MARKER_END with
-    `new_section`. Returns True if the file content actually changed.
-    """
-    if not readme_path.exists():
-        LOG.error("README not found at %s", readme_path)
-        return False
-
-    original = readme_path.read_text(encoding="utf-8")
-
-    if MARKER_START not in original or MARKER_END not in original:
-        LOG.error(
-            "README is missing the %s / %s markers. "
-            "Add them where the dynamic LeetCode section should appear.",
-            MARKER_START,
-            MARKER_END,
-        )
-        return False
-
-    pattern = re.compile(
-        re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END), re.DOTALL
-    )
-    updated = pattern.sub(lambda _: new_section, original)
-
-    if updated == original:
-        LOG.info("No changes detected in README.")
-        return False
-
-    readme_path.write_text(updated, encoding="utf-8")
-    LOG.info("README updated successfully.")
-    return True
-
-
-# --------------------------------------------------------------------------- #
-# Entry point
-# --------------------------------------------------------------------------- #
-
-def main() -> int:
-    readme_path = Path(os.environ.get("README_PATH", str(DEFAULT_README_PATH)))
-    solutions_path = DEFAULT_SOLUTIONS_PATH
-
-    LOG.info("README path: %s", readme_path)
-    LOG.info("Solutions repo path: %s", solutions_path)
-
-    catalog = fetch_leetcode_catalog()
-    stats = scan_repository(solutions_path, catalog)
-    markdown_section = build_markdown(stats)
-    changed = update_readme(readme_path, markdown_section)
-
-    LOG.info("Done. %s", "README changed." if changed else "No update needed.")
-    return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
-    requests>=2.31.0
-    name: Update Profile README
-
-on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
-  schedule:
-    - cron: "0 0 * * *"   # every day at midnight UTC
-  workflow_dispatch:        # manual trigger from the Actions tab
-
-permissions:
-  contents: write
-
-concurrency:
-  group: update-readme
-  cancel-in-progress: true
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout profile repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Checkout leetcode-solutions repository
-        uses: actions/checkout@v4
-        with:
-          repository: kunal-arela/leetcode-solutions
-          path: leetcode-solutions
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: "pip"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run update script
-        env:
-          LEETCODE_REPO_PATH: ${{ github.workspace }}/leetcode-solutions
-          README_PATH: ${{ github.workspace }}/README.md
-        run: python scripts/update_readme.py
-
-      - name: Commit and push changes if README changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- README.md; then
-            echo "No changes to commit."
-          else
-            git add README.md
-            git commit -m "chore: auto-update LeetCode stats [skip ci]"
-            git push
-          fi

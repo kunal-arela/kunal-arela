@@ -47,7 +47,7 @@
 **Database**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" alt="database" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="database" />
 </p>
 
 **Operating Systems**

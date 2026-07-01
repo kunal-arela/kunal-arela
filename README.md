@@ -25,7 +25,7 @@
 - 🚀 Building scalable and real-world projects
 - 📚 Continuously learning modern technologies
 - 🎯 Goal: Become a skilled Full-Stack Software Engineer
-- 
+
 <br clear="right"/>
 
 ---

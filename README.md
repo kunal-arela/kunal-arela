@@ -93,15 +93,11 @@ _LeetCode statistics are updated automatically._
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kunal-arela&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kunal-arela&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 ---
 
-
----
 
 
 

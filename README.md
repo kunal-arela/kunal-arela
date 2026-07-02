@@ -90,12 +90,9 @@ _LeetCode statistics are updated automatically._
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievement
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunal-arela&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
+[![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-success?style=for-the-badge&logo=github)](https://github.com/users/kunal-arela/achievements/quickdraw)
 ---
 
 

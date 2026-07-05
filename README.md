@@ -85,6 +85,7 @@
     <img src="https://leetcard.jacoblin.cool/KUNAL_ARELA?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
   </a>
 </p>
+
 --- 
 
 ## 📈 Coding Activity

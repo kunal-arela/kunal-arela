@@ -72,16 +72,19 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25"> LeetCode
+
 <p align="center">
   <a href="https://leetcode.com/u/KUNAL_ARELA/">
-    <img src="https://img.shields.io/badge/LeetCode-KUNAL_ARELA-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-KUNAL_ARELA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/KUNAL_ARELA?theme=dark&font=Karma&ext=contest"/>
+  <a href="https://leetcode.com/u/KUNAL_ARELA/">
+    <img src="https://leetcard.jacoblin.cool/KUNAL_ARELA?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
+  </a>
 </p>
-
 --- 
 
 ## 📈 Coding Activity

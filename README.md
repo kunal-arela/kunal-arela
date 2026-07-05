@@ -72,12 +72,15 @@
 
 ---
 
-<!-- LEETCODE-STATS:START -->
-### 🧩 LeetCode Progress
+## 🚀 LeetCode
 
-_LeetCode statistics are updated automatically._
-<!-- LEETCODE-STATS:END -->
+<p align="center">
+  <a href="https://leetcode.com/u/KUNAL_ARELA/">
+    <img src="https://leetcard.jacoblin.cool/KUNAL_ARELA?theme=unicorn&font=Karma&ext=contest" />
+  </a>
+</p>
 
+--- 
 
 ## 📈 Coding Activity
 

@@ -10,45 +10,51 @@
 <img src="https://img.shields.io/github/followers/kunal-arela?label=Followers&style=for-the-badge&color=8A63D2" alt="Followers" />
 <img src="https://img.shields.io/github/stars/kunal-arela?label=Stars&style=for-the-badge&color=8A63D2" alt="Stars" />
 
-<br/>
-
-<a href="https://www.linkedin.com/in/kunal-arela-46793639b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/KUNAL_ARELA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-<a href="mailto:arelakunal238@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student @ GLA University, Mathura (2024–28)
-- 💻 Aspiring Full-Stack Software Engineer
-- ☕ Java Developer, deep in Data Structures & Algorithms
-- 🧠 Daily LeetCode practice — grinding towards consistency over streaks
-- 🚀 Building real, working projects — not just tutorials
-- 🎯 2026 goal: land a strong SDE internship
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
-<br/>
+- 🎓 Computer Science Student
+- 💻 Aspiring Software Engineer
+- ☕ Java Developer
+- 🧠 Solving Data Structures & Algorithms daily
+- 🚀 Building scalable and real-world projects
+- 📚 Continuously learning modern technologies
+- 🎯 Goal: Become a skilled Full-Stack Software Engineer
+
+<br clear="right"/>
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,py,js,html,css,react,nodejs" alt="languages" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,idea,postman,linux,windows" alt="tools" />
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css" alt="languages" />
 </p>
 
-<div align="center">
+**Tools**
 
-| Category | Stack |
-|---|---|
-| **Languages** | Java · C · Python · JavaScript |
-| **Web** | HTML5 · CSS3 · React · Node.js |
-| **Databases** | MongoDB · MySQL |
-| **Tools** | Git · GitHub · VS Code · IntelliJ IDEA · Postman |
-| **OS** | Windows · Linux |
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="tools" />
+</p>
 
-</div>
+**Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="database" />
+</p>
+
+**Operating Systems**
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux" alt="os" />
+</p>
 
 ---
 
@@ -56,30 +62,23 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com/?user=kunal-arela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kunal-arela/kunal-arela/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</div>
-
-> Requires a one-time GitHub Actions setup — see **"Setting Up the Snake"** in the notes below.
 
 ---
 
-## 🧩 LeetCode
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25"> LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/KUNAL_ARELA/">
+    <img src="https://img.shields.io/badge/LeetCode-KUNAL_ARELA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/KUNAL_ARELA/">
@@ -87,35 +86,55 @@
   </a>
 </p>
 
----
+--- 
 
-## 🏆 GitHub Trophies
+## 📈 Coding Activity
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kunal-arela&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+
+
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🏆 GitHub Achievement
 
-<p align="center">
-<img src="https://img.shields.io/badge/Advanced%20DSA-Java-8A63D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-Basics-8A63D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack-React%20%2B%20Node-8A63D2?style=for-the-badge"/>
-</p>
-
+[![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-success?style=for-the-badge&logo=github)](https://github.com/users/kunal-arela/achievements/quickdraw)
 ---
+
+
+
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/kunal-arela"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kunal-arela-46793639b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/KUNAL_ARELA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="mailto:arelakunal238@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/kunal-arela">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/kunal-arela-46793639b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/KUNAL_ARELA/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:arelakunal238@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💬 Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -124,6 +143,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
-**Thanks for visiting — consistency > motivation.**
+**Thanks for visiting — consistency &gt; motivation.**
 
 </div>
+
+---

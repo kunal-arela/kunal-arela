@@ -62,13 +62,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<img width="98%" src="https://streak-stats.demolab.com?user=kunal-arela&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 

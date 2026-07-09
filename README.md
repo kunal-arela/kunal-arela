@@ -58,70 +58,41 @@
 
 ---
 
-<!-- ======================== GITHUB STATISTICS ======================== -->
+<!-- ================= GitHub Statistics ================= -->
 
-<h2 align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif" width="30">
-  GitHub Statistics
-</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <i>Consistency • Contributions • Growth</i>
+<i>Building Projects • Solving DSA • Learning Every Day</i>
 </p>
 
 <br>
 
 <div align="center">
 
-<table>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<tr>
-
-<td width="50%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=15"/>
-
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=kunal-arela&theme=tokyonight&hide_border=true&border_radius=15&ring=7F3FBF&fire=FF6B6B&currStreakLabel=58A6FF"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br><br>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunal-arela&theme=tokyonight&utcOffset=5.5"/>
-
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal-arela&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-</table>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"/>
 
 </div>
 
-<!-- ======================== END GITHUB STATISTICS ======================== -->
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kunal-arela&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kunal-arela&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+<!-- ===================================================== -->
 
 ---
 

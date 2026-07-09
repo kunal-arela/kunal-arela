@@ -66,81 +66,19 @@
 <tr>
 <td width="50%">
 
-<!-- ========================== GITHUB DASHBOARD ========================== -->
-
-<h2 align="center">📊 GitHub Analytics Dashboard</h2>
-
-<p align="center">
-  <i>Building consistently • Solving DSA • Learning Java</i>
-</p>
-
-<br>
+## <img src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif" width="35"> Developer Dashboard
 
 <div align="center">
 
-<table>
-<tr>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
 
-<td width="50%" valign="top">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal-arela&theme=tokyonight"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<br><br>
 
-</td>
-
-<td width="50%" valign="top">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunal-arela&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunal-arela&theme=tokyonight"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunal-arela&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-</table>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunal-arela&theme=tokyonight&utcOffset=5.5"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal-arela&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kunal-arela&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
-</p>
-
-<!-- ======================== END GITHUB DASHBOARD ======================== -->
-
 ---
 
 ## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25"> LeetCode

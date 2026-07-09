@@ -1,7 +1,18 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hey,%20I'm%20Kunal%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20coffee%20%E2%98%95%20into%20code%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=58&descSize=16" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kunal%20Arela&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+Developer;DSA+%26+Competitive+Programmer;LeetCode+Explorer;Open+Source+Learner" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kunal-arela&label=Profile%20Views&color=8A63D2&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/kunal-arela?label=Followers&style=for-the-badge&color=8A63D2" alt="Followers" />
+<img src="https://img.shields.io/github/stars/kunal-arela?label=Stars&style=for-the-badge&color=8A63D2" alt="Stars" />
+
 </div>
-<div align="center">
+
+<br/>
 
 ## 👨‍💻 About Me
 

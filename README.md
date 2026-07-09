@@ -58,27 +58,71 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub Dashboard
+<!-- ======================== GITHUB STATISTICS ======================== -->
+
+<h2 align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif" width="30">
+  GitHub Statistics
+</h2>
+
+<p align="center">
+  <i>Consistency • Contributions • Growth</i>
+</p>
+
+<br>
 
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-## <img src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif" width="35"> Developer Dashboard
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=15"/>
 
-<div align="center">
+</td>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+<td width="50%">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal-arela&theme=tokyonight"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=kunal-arela&theme=tokyonight&hide_border=true&border_radius=15&ring=7F3FBF&fire=FF6B6B&currStreakLabel=58A6FF"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true&area=true"/>
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=react-dark&hide_border=true&area=true"/>
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunal-arela&theme=tokyonight&utcOffset=5.5"/>
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal-arela&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+<!-- ======================== END GITHUB STATISTICS ======================== -->
+
 ---
 
 ## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25"> LeetCode

@@ -66,29 +66,80 @@
 <tr>
 <td width="50%">
 
-### 📈 Profile Overview
+<!-- ========================== GITHUB DASHBOARD ========================== -->
 
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
-</td>
-
-<td width="50%">
-
-### 💻 Most Used Languages
-
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>Building consistently • Solving DSA • Learning Java</i>
+</p>
 
 <br>
 
-### 🔥 Contribution Streak
+<div align="center">
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunal-arela&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunal-arela&theme=tokyonight"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunal-arela&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-arela&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunal-arela&theme=tokyonight&utcOffset=5.5"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal-arela&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kunal-arela&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
+</p>
+
+<!-- ======================== END GITHUB DASHBOARD ======================== -->
 
 ---
 

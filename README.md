@@ -58,41 +58,17 @@
 
 ---
 
-<!-- ================= GitHub Statistics ================= -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-<i>Building Projects • Solving DSA • Learning Every Day</i>
-</p>
-
-<br>
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kunal-arela&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kunal-arela&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
-<!-- ===================================================== -->
 
 ---
 

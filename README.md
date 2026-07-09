@@ -58,15 +58,35 @@
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub Dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<td width="50%">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true"/>
+### 📈 Profile Overview
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+</td>
+
+<td width="50%">
+
+### 💻 Most Used Languages
+
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🔥 Contribution Streak
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true"/>
 
 </div>
 

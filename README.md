@@ -60,10 +60,11 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-arela&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=kunal-arela&theme=tokyonight&hide_border=true&border_radius=20"/>

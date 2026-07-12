@@ -66,9 +66,9 @@
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-arela&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=kunal-arela&theme=tokyonight&hide_border=true&border_radius=20"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-arela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+</div>
 
 ---
 
